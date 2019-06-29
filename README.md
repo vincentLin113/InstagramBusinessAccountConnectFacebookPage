@@ -11,3 +11,6 @@
 - 點進去之後 Connect到你要綁定的Instagram帳號
   1. 若沒看改變，打開Instagram->Settings->Accounts->Facebook
 - 結束
+
+[臉書參考網址](https://help.instagram.com/399237934150902?helpref=faq_content)
+[Instagram參考網址](https://en-gb.facebook.com/help/instagram/356902681064399?helpref=faq_content)
